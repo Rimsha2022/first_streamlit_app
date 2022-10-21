@@ -6,3 +6,5 @@ streamlit.text('Omega 3 and Blueberry oatmeal')
 streamlit.text('Shezwan rice')
 streamlit.text('Noodles')
 streamlit.text('Veg burgers')
+
+streamlit.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
